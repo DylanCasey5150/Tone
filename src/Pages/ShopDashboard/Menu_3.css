@@ -1,0 +1,38 @@
+.Menu3{
+  border-style: solid ;
+  border-width:1px;
+  height: 1000px;
+
+  background-color:#ee8262;
+  opacity: .5;
+
+}
+
+.Window1{
+  margin-left:20px;
+  margin-top:20px;
+  height:900px;
+  width:700px;
+  background-color:white;
+}
+
+.Window2{
+  height:300px;
+  width: 670px;
+  background: white;
+  margin-left:750px;
+  margin-top:-900px;
+  margin-right:20px;
+
+}
+
+.Window3{
+  height:500px;
+  width: 670px;
+  background: white;
+  margin-left:750px;
+  margin-top:20px;
+  margin-right:20px;
+  background: white;
+
+}
