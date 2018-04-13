@@ -16,7 +16,9 @@ class Menu_1 extends Component {
 
 
    <div className="Menu1">
-       <div className="Window1"></div>
+       <div className="Window1">
+       Some information about product 1......
+       </div>
        <div className="Window2"> </div>
        <div className="Window3"> </div>
    </div>
